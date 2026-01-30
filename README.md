@@ -2,7 +2,7 @@
 
 **A dynamic, client-side web application featuring asynchronous data fetching, Stoic philosophy, and a responsive "Dark Mode" UI.**
 
-### 🔴 **Live Demo:** [Click Here to View](https://sharanx77.github.io/task_10.elevatelabs/)
+### 🔴 **Live Demo:** [Click Here to View](https://sharanx77.github.io/task_10.elevateslabs/)
 
 This project was developed as part of the **Elevate Labs Web Development Internship (Task 10)**. It demonstrates proficiency in consuming public APIs using the Fetch API, handling JSON data, and managing asynchronous JavaScript operations.
 
